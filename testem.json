@@ -1,0 +1,9 @@
+{
+  "framework": "mocha",
+  "src_files" : [
+    "lib/jquery-1.9.1.js",
+    "src/jquery.rollover.js",
+    "test/lib/expect.js",
+    "test/rollover.js"
+  ]
+}
